@@ -1,5 +1,5 @@
 <?php
-// Send simple email without DKIM SIgning
+// Send simple email with DKIM SIgning
 // YOUR E-MAIL
 $name = 'Name Lastname';
 $sender = 'info@domain.pl';
